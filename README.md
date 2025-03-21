@@ -1,7 +1,7 @@
 #  "Cultural Heritage Tokenization" (Vyper)
 
 ## Description
-A tokenization system for historical Black artifacts, literature, and art. This project allows individuals to fractionalize ownership of culturally significant assets on-chain.
+A tokenization system for historical Underrepresented artifacts, literature, and art. This project allows individuals to fractionalize ownership of culturally significant assets on-chain.
 
 ## Key Features
 - Fractional Ownership: Smart contract mints ERC-1155 tokens representing shared ownership.
