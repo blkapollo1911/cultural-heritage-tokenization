@@ -1,7 +1,7 @@
 #  "Cultural Heritage Tokenization" (Vyper)
 
 ## Description
-A tokenization system for historical Underrepresented artifacts, literature, and art. This project allows individuals to fractionalize ownership of culturally significant assets on-chain.
+A tokenization system for historical underrepresented artifacts, literature, and art. This project allows individuals to fractionalize ownership of culturally significant assets on-chain.
 
 ## Key Features
 - Fractional Ownership: Smart contract mints ERC-1155 tokens representing shared ownership.
@@ -16,5 +16,5 @@ This project combines asset tokenization and cultural preservation, a perfect wa
 - Vyper (Smart Contract Logic)
 - ERC-1155 (Multi-token standard)
 - IPFS (Metadata Storage)
-- Brownie (Development & Testing)
+- Moccasin (Development & Testing)
 - OpenZeppelin (Security and Royalty Implementation)
